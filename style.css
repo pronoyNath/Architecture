@@ -161,7 +161,7 @@ nav li {
 
 .features-img img {
     height: 850px;
-    width: 100%;
+    width: 120%;
 }
 
 
@@ -207,6 +207,7 @@ nav li {
     }
     .features-img img{
         height: 500px;
+        width: 100%;
     }
 }
 
@@ -222,7 +223,7 @@ nav li {
         max-width: 100%;
     }
     .teams-img-container{
-        grid-template-columns: repeat(2,1fr);
+        grid-template-columns: repeat(2,60%);
         margin-top: 20px;
     }
     .features-img img{
